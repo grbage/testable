@@ -7,3 +7,12 @@ C:\Users\Student\Desktop\testioi\unit-testing-using-nunit\PrimeService\obj\Debug
 C:\Users\Student\Desktop\testioi\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
 C:\Users\Student\Desktop\testioi\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
 C:\Users\Student\Desktop\testioi\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Student\Desktop\testioi\testable\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb

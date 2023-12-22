@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {}
+    "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+    "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectPath": "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config"

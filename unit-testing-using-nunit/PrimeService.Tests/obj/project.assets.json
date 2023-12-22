@@ -4644,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
       "projectName": "PrimeService.Tests",
-      "projectPath": "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+      "projectPath": "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4662,8 +4662,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
-              "projectPath": "C:\\Users\\Student\\Desktop\\testioi\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
+            "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\testioi\\testable\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
             }
           }
         }
